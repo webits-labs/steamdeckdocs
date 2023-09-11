@@ -5,6 +5,7 @@ nav:
   - Decky Loader: deckyloader.md
   - SSH: ssh.md
   - Streaming: streaming.md
+  - OBS: obs.md
   - About: about.md
 repo_url: https://github.com/tuxx/steamdeckdocs
 theme: readthedocs
