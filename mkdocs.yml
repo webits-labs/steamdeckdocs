@@ -3,6 +3,7 @@ site_url: https://steamdeckdocs.org/
 nav:
   - Home: index.md
   - Decky Loader: deckyloader.md
+  - SSH: ssh.md
   - Streaming: streaming.md
   - About: about.md
 repo_url: https://github.com/tuxx/steamdeckdocs
