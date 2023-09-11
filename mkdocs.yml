@@ -2,10 +2,15 @@ site_name: Steamdeck Docs
 site_url: https://steamdeckdocs.org/
 nav:
   - Home: index.md
-  - Decky Loader: deckyloader.md
-  - SSH: ssh.md
-  - Streaming: streaming.md
-  - OBS: obs.md
   - About: about.md
+  - Applications:
+    - Decky Loader: deckyloader.md
+  - Games:
+    - Lutris: games/lutris.md
+    - Valheim: games/valheim.md
+  - 'Tips & Tricks':
+    - OBS: obs.md
+    - SSH: ssh.md
+    - Streaming: streaming.md
 repo_url: https://github.com/tuxx/steamdeckdocs
 theme: readthedocs
