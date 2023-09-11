@@ -1,0 +1,6 @@
+site_name: Steamdeck Docs
+site_url: https://steamdeckdocs.org/
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
