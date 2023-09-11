@@ -4,7 +4,7 @@
 
 ### Steamdeck
 
-- Login to steamdeck via SSH
+- Login to steamdeck via [SSH](ssh.md)
 - Install the packages below
 
 ```
