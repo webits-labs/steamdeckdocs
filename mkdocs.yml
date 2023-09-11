@@ -2,6 +2,7 @@ site_name: Steamdeck Docs
 site_url: https://steamdeckdocs.org/
 nav:
   - Home: index.md
+  - Streaming: streaming.md
   - About: about.md
 repo_url: https://github.com/tuxx/steamdeckdocs
 theme: readthedocs
