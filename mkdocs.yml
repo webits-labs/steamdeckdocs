@@ -5,6 +5,7 @@ nav:
   - About: about.md
   - Applications:
     - Decky Loader: applications/deckyloader.md
+    - Emudeck: applications/emudeck.md
   - Games:
     - Lutris: games/lutris.md
     - Valheim: games/valheim.md

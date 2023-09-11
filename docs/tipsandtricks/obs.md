@@ -1,8 +1,10 @@
 # Streaming Steamdeck to OBS
 
-## Prerequisites
+## RTMP Streaming
 
-### Steamdeck
+### Prerequisites
+
+#### Steamdeck
 
 - Login to steamdeck via [SSH](ssh.md)
 - Install the packages below
@@ -13,7 +15,7 @@ sudo pacman -S gst-plugins-ugly gst-plugins-bad gstreamer-vaapi gst-plugin-pipew
 sudo steamos-readonly enable
 ```
 
-### Remote machine
+#### Remote machine
 
 - Have docker available
 - Know IP of the machine so you can replace `<docker_container_host_ip>` on the steamdeck command and the OBS media source
@@ -23,7 +25,7 @@ sudo steamos-readonly enable
 docker run -d -p 1935:1935 --name rtmp-stream alfg/nginx-rtmp
 ```
 
-## Streaming steamdeck to RTMP
+### Streaming steamdeck to RTMP
 
 Login to the steamdeck through ssh, and run the following
 
@@ -44,8 +46,12 @@ gst-launch-1.0 -e \
         ! rtmpsink location='rtmp://<docker_container_host_ip>:1935/stream/deck live=1'
 ```
 
-## OBS
+### OBS
 
 - Add a media source to OBS with the url `rtmp://<docker_container_host_ip>:1935/stream/deck`
 - ???
 - Profit.
+
+## Capture card
+
+Stuff goes here
