@@ -21,4 +21,4 @@ apt install ruby-mdl mkdocs
 **Building a new page**: `mkdocs build` (See site/ for the static html)
 
 ## TODO
-Check out the [@tuxx's steamdeck todo board](https://github.com/users/tuxx/projects/1/views/1?layout=board)
+Check out the [@tuxx's steamdeckdocs todo board](https://github.com/users/tuxx/projects/1/views/1)
