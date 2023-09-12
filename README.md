@@ -22,3 +22,7 @@ apt install ruby-mdl mkdocs
 
 ## TODO
 Check out the [@tuxx's steamdeckdocs todo board](https://github.com/users/tuxx/projects/1/views/1)
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more info
