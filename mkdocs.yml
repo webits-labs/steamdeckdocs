@@ -8,7 +8,6 @@ nav:
     - Emudeck: applications/emudeck.md
     - Lutris: applications/lutris.md
   - Games:
-    - Valheim: games/valheim.md
     - 'TMNT: Shredders revenge': games/tmntshreddersrevenge.md
   - 'Tips & Tricks':
     - OBS: tipsandtricks/obs.md
@@ -16,3 +15,15 @@ nav:
     - Streaming: tipsandtricks/streaming.md
 repo_url: https://github.com/tuxx/steamdeckdocs
 theme: readthedocs
+plugins:
+  - search
+  #- enumerate-headings:
+  #    toc_depth: 0
+  #    strict: true
+  #    increment_across_pages: true
+  #    include:
+  #      - "*"
+  #    exclude:
+  #      - index.md
+  #    restart_increment_after:
+  #      - second_section.md

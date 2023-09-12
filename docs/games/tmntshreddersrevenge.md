@@ -10,6 +10,8 @@ Since this game can run 60fps at 800p with just 3 watts of usage, the only fille
 
 ### Full performance
 
+**Estimated battery time**: about 7 hours.
+
 #### In-Game settings
 | Setting name   | Value                 |
 |----------------|-----------------------|

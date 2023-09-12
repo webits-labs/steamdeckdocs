@@ -2,6 +2,8 @@
 
 ## RTMP Streaming
 
+This will setup an rtmp webserver on your computer that the steamdeck can stream it's screen to. No need for capture cards or other kind of cables. This only works for the gamemode of the steamdeck. I currently do not have a setup to stream desktop mode.
+
 ### Prerequisites
 
 #### Steamdeck
@@ -27,6 +29,9 @@ docker run -d -p 1935:1935 --name rtmp-stream alfg/nginx-rtmp
 
 ### Streaming steamdeck to RTMP
 
+<img src="https://imgur.com/L513f2y.png" />
+RTMP Streaming from the steamdeck via ssh
+
 Login to the steamdeck through ssh, and run the following
 
 ```
@@ -47,6 +52,9 @@ gst-launch-1.0 -e \
 ```
 
 ### OBS
+
+<img src="https://i.imgur.com/aVZNz5y.png" />
+The OBS media source settings
 
 - Add a media source to OBS with the url `rtmp://<docker_container_host_ip>:1935/stream/deck`
 - ???
