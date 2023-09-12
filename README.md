@@ -21,10 +21,4 @@ apt install ruby-mdl mkdocs
 **Building a new page**: `mkdocs build` (See site/ for the static html)
 
 ## TODO
-- Pipelines for deploying website
-- Where to store images?
-- Add steamdeck icons that you can easily use in the markdown
-- Create a styleguide so we will have somewhat unified docs
-- Add [header enumerating plugin](https://github.com/timvink/mkdocs-enumerate-headings-plugin)
-- Create more documentation
-- Maybe create a more steamdeck styled theme?
+Check out the [@tuxx's steamdeck todo board](https://github.com/users/tuxx/projects/1/views/1?layout=board)
