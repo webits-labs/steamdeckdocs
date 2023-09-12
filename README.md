@@ -4,6 +4,7 @@ Community driven markdown documentation for the steamdeck that will generate sta
 ## Used software
 
 **Linting with markdownlint**: [markdownlint](https://github.com/markdownlint/markdownlint)
+
 **Creating static html with mkdocs**: [mkdocs](https://www.mkdocs.org/)
 
 ### How to install
@@ -16,6 +17,7 @@ apt install ruby-mdl mkdocs
 ### How to use
 
 **Checking if the new files are valid**: `mdl docs/`
+
 **Building a new page**: `mkdocs build` (See site/ for the static html)
 
 ## TODO
