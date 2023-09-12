@@ -12,3 +12,4 @@ This project is still very much a Work In Progress. Currently we are working on:
 * Add steamdeck icon emoji's, so you can easily use the steamdeck icons in the documentation. (For example: :button-a: or :button-steam: will render an icon)
 * Creating a styleguide so that the documentation will look uniform
 * Adding more documentation
+* Drink beer, raise hell.
