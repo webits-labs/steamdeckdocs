@@ -14,7 +14,9 @@ nav:
     - SSH: tipsandtricks/ssh.md
     #- Streaming: tipsandtricks/streaming.md
 repo_url: https://github.com/tuxx/steamdeckdocs
-theme: readthedocs
+theme: 
+  name: readthedocs
+  logo: assets/logo.png
 plugins:
   - search
   #- enumerate-headings:
