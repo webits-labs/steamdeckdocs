@@ -2,17 +2,17 @@ site_name: Steamdeck Docs
 site_url: https://steamdeckdocs.org/
 nav:
   - Home: index.md
-  - About: about.md
+  #- About: about.md
   - Applications:
     - Decky Loader: applications/deckyloader.md
-    - Emudeck: applications/emudeck.md
-    - Lutris: applications/lutris.md
+    #- Emudeck: applications/emudeck.md
+    #- Lutris: applications/lutris.md
   - Games:
     - 'TMNT: Shredders revenge': games/tmntshreddersrevenge.md
   - 'Tips & Tricks':
     - OBS: tipsandtricks/obs.md
     - SSH: tipsandtricks/ssh.md
-    - Streaming: tipsandtricks/streaming.md
+    #- Streaming: tipsandtricks/streaming.md
 repo_url: https://github.com/tuxx/steamdeckdocs
 theme: readthedocs
 plugins:
