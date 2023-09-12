@@ -12,6 +12,12 @@ Community driven markdown documentation for the steamdeck that generates static 
 apt install ruby-mdl mkdocs
 ```
 
+**Arch**
+```
+pacman -S markdownlint
+yay -S mkdocs
+```
+
 ### Testing markdown
 
 ```
