@@ -7,14 +7,6 @@ totumque retexitur vertit! Luctu quod agendo, fama nunc quam dederint quod
 dependebat; per! Ponit exspectatum verba ignibus murmure vidit! A visa, *multa*,
 tamen cinguntur vestem neque.
 
-> **Quibus ipsa**; putant tenet per levibus dicere decent pietas, ad colubris
-> [tuba](http://www.decettactu.org/esto-exitium): haec locum vertice. Pete
-> ferarum quis, aper dicere, coniunx Baucisque variat est oris tamen nemo
-> minimum. Percussa intellegit conlapsaque praepetis reddite nocent tellus sum
-> adeo dum? Ora nuper genitore peioris tamen
-> [est](http://amoresvellentem.io/tribuisse) curvo ullus pictis memorantur,
-> aethera; nec tamen sine busta.
-
 ## De ille condidit
 
 Quo vir *et quo* partem nec, quam manum quos quodque **poenam**. Aut *livor

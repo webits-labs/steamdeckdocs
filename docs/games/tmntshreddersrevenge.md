@@ -13,6 +13,7 @@ Since this game can run 60fps at 800p with just 3 watts of usage, the only fille
 **Estimated battery time**: about 7 hours.
 
 #### In-Game settings
+
 | Setting name   | Value                 |
 |----------------|-----------------------|
 | Display mode   | Borderless fullscreen |
@@ -20,6 +21,7 @@ Since this game can run 60fps at 800p with just 3 watts of usage, the only fille
 | Vsync          | On                    |
 
 #### Performance setting (three dots button + battery icon)
+
 | Setting name      | Value                 |
 |-------------------|-----------------------|
 | Framerate Limit   | 60                    |
@@ -33,13 +35,15 @@ Since this game can run 60fps at 800p with just 3 watts of usage, the only fille
 | FSR Sharpness     | 5                     |
 
 #### PowerTools (Deckyloader)
+
 | Setting name      | Value                 |
 |-------------------|-----------------------|
 | CPU Advanced      | Off                   |
 
-
 ### Mid performance
+
 See Full performance
 
-### Battery saving 
+### Battery saving
+
 See Full performance
