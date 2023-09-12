@@ -6,9 +6,10 @@ nav:
   - Applications:
     - Decky Loader: applications/deckyloader.md
     - Emudeck: applications/emudeck.md
+    - Lutris: applications/lutris.md
   - Games:
-    - Lutris: games/lutris.md
     - Valheim: games/valheim.md
+    - 'TMNT: Shredders revenge': games/tmntshreddersrevenge.md
   - 'Tips & Tricks':
     - OBS: tipsandtricks/obs.md
     - SSH: tipsandtricks/ssh.md
