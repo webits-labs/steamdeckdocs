@@ -8,7 +8,7 @@ Every page on this website has been made with [Markdown](https://www.markdowngui
 
 This project is still very much a Work In Progress. Currently we are working on:
 
-* --Deploying the website through github (i'm doing it manually as of now)--
+* Deploying the website through github (i'm doing it manually as of now)
 * Add steamdeck icon emoji's, so you can easily use the steamdeck icons in the documentation. (For example: :button-a: or :button-steam: will render an icon)
 * Creating a styleguide so that the documentation will look uniform
 * Adding more documentation
