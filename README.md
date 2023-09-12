@@ -8,3 +8,4 @@ Community driven markdown documentation for the steamdeck that will generate sta
 - Create a styleguide so we will have somewhat unified docs
 - Add [header enumerating plugin](https://github.com/timvink/mkdocs-enumerate-headings-plugin)
 - Create more documentation
+- Maybe create a more steamdeck styled theme?
