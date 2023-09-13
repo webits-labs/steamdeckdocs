@@ -17,6 +17,7 @@ repo_url: https://github.com/tuxx/steamdeckdocs
 theme: 
   name: readthedocs
   logo: assets/logo.png
+  favicon: assets/favicon.png
 plugins:
   - search
   #- enumerate-headings:
