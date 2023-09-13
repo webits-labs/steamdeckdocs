@@ -1,26 +1,39 @@
 # steamdeckdocs
-Community driven markdown documentation for the steamdeck that will generate static html on https://steamdeckdocs.org.
 
-## Used software
+Community driven markdown documentation for the steamdeck that generates static html through [mkdocs](https://www.mkdocs.org/) on https://steamdeckdocs.org.
 
-**Linting with markdownlint**: [markdownlint](https://github.com/markdownlint/markdownlint)
+## Local testing
 
-**Creating static html with mkdocs**: [mkdocs](https://www.mkdocs.org/)
+#### Needed software
 
-### How to install
+**Debian 12**
 
-#### Debian 12
 ```
 apt install ruby-mdl mkdocs
 ```
 
-### How to use
+**Arch**
+```
+pacman -S markdownlint
+yay -S mkdocs
+```
 
-**Checking if the new files are valid**: `mdl docs/`
+### Testing markdown
 
-**Building a new page**: `mkdocs build` (See site/ for the static html)
+```
+mdl docs/
+```
+
+### Checking your changes
+
+Run the below command and point your browser to http://localhost:8000
+
+```
+mkdocs serve
+```
 
 ## TODO
+
 Check out the [@tuxx's steamdeckdocs todo board](https://github.com/users/tuxx/projects/1/views/1)
 
 ## Contributing
