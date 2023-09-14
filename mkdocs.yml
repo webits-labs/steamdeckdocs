@@ -9,6 +9,8 @@ nav:
     #- Lutris: applications/lutris.md
   - Games:
     - 'TMNT: Shredders revenge': games/tmntshreddersrevenge.md
+  - 'Non Steam Games':
+    - 'Super Mario 64 decompiled': games/sm64.md
   - 'Tips & Tricks':
     - OBS: tipsandtricks/obs.md
     - SSH: tipsandtricks/ssh.md
